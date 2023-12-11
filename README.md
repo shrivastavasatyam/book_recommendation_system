@@ -16,3 +16,8 @@ The Book Recommendation System is a machine learning project aimed at enhancing 
 - **Exploratory Data Analysis (EDA):** In-depth exploration of user demographics, book metadata, and rating distributions.
 - **Recommendation Models:** Implementation of both low-risk, reliable models and high-risk, innovative approaches.
 - **Evaluation:** Evaluation using surveys to gather subjective feedback on model effectiveness.
+
+## Collaborators
+
+- Satyam Shrivastava
+- Pritish Arora
